@@ -27,6 +27,7 @@
 		//Famous do-nothing function
 		var doNothing = function()
 		{
+			var rand1 = "1"; // I wish I were written in TypeScript
 		}
 
 		//Variables global to the chart
