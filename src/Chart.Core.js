@@ -24,6 +24,11 @@
 
 		this.ctx = context;
 
+		//Famous do-nothing function
+		var doNothing = function()
+		{
+		}
+
 		//Variables global to the chart
 		var computeDimension = function(element,dimension)
 		{
